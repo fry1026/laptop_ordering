@@ -1,0 +1,26 @@
+[
+  {
+    "Appointment_ID": "C1001",
+    "Request_ID": "A001",
+    "Appointment_Status": "Scheduled",
+    "Appointment_Date": "2021-12-13 00:00:00"
+  },
+  {
+    "Appointment_ID": "C1001",
+    "Request_ID": "A001",
+    "Appointment_Status": "Configured",
+    "Appointment_Date": "2021-12-14 00:00:00"
+  },
+  {
+    "Appointment_ID": "C1002",
+    "Request_ID": "A002",
+    "Appointment_Status": "Scheduled",
+    "Appointment_Date": "2022-01-01 00:00:00"
+  },
+  {
+    "Appointment_ID": "C1002",
+    "Request_ID": "A002",
+    "Appointment_Status": "Configured",
+    "Appointment_Date": "2022-01-03 00:00:00"
+  }
+]

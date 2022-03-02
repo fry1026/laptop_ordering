@@ -1,0 +1,66 @@
+[
+  {
+    "Request_ID": "A001",
+    "Request_Name": "New joiner laptop Nick",
+    "Request_Date": "2021-12-01 00:00:00",
+    "Request_User": "Nick",
+    "Laptop_Type": "Windows",
+    "Request_Status": "Created"
+  },
+  {
+    "Request_ID": "A002",
+    "Request_Name": "New joiner laptop Kenneth",
+    "Request_Date": "2021-12-15 00:00:00",
+    "Request_User": "Kenneth",
+    "Laptop_Type": "Windows",
+    "Request_Status": "Created"
+  },
+  {
+    "Request_ID": "A003",
+    "Request_Name": "New joiner laptop Thi",
+    "Request_Date": "2021-11-01 00:00:00",
+    "Request_User": "Thi",
+    "Laptop_Type": "Mac",
+    "Request_Status": "Created"
+  },
+  {
+    "Request_ID": "A001",
+    "Request_Name": "New joiner laptop Nick",
+    "Request_Date": "2021-12-05 00:00:00",
+    "Request_User": "Nick",
+    "Laptop_Type": "Windows",
+    "Request_Status": "Approved"
+  },
+  {
+    "Request_ID": "A002",
+    "Request_Name": "New joiner laptop Kenneth",
+    "Request_Date": "2021-12-20 00:00:00",
+    "Request_User": "Kenneth",
+    "Laptop_Type": "Windows",
+    "Request_Status": "Approved"
+  },
+  {
+    "Request_ID": "A003",
+    "Request_Name": "New joiner laptop Thi",
+    "Request_Date": "2021-11-10 00:00:00",
+    "Request_User": "Thi",
+    "Laptop_Type": "Mac",
+    "Request_Status": "Approved"
+  },
+  {
+    "Request_ID": "A001",
+    "Request_Name": "New joiner laptop Nick",
+    "Request_Date": "2021-12-15 00:00:00",
+    "Request_User": "Nick",
+    "Laptop_Type": "Windows",
+    "Request_Status": "Cleared"
+  },
+  {
+    "Request_ID": "A002",
+    "Request_Name": "New joiner laptop Kenneth",
+    "Request_Date": "2022-01-05 00:00:00",
+    "Request_User": "Kenneth",
+    "Laptop_Type": "Windows",
+    "Request_Status": "Cleared"
+  }
+]
